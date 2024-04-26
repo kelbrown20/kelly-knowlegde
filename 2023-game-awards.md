@@ -144,6 +144,7 @@ players.\[19\]
 
 ### Awards
 
+#### Media
 Game of the Year: 
 - Winner:
   - Baldur's Gate 3 – Larian Studios
@@ -212,25 +213,326 @@ Best performance:
 Games for impact:
 - Winner:
   - Tchia – Awaceb / Kepler Interactive
+- Nominees:
+  - A Space for the Unbound – Mojiken Studio / Toge Productions
+  - Chants of Sennaar – Rundisc / Focus Entertainment
+  - Goodbye Volcano High – KO_OP
+  - Terra Nil – Free Lives / Devolver Digital
+  - Venba – Visai Games
 
 Best Independent Game:	
+- Winner:
+  - Sea of Stars – Sabotage Studio
+- Nominees:
+  - Cocoon – Geometric Interactive / Annapurna Interactive
+  - Dave the Diver – Mintrocket
+  - Dredge – Black Salt Games / Team17
+  - Viewfinder – Sad Owl Studios / Thunderful Publishing
+
 Best Debut Indie Game:
+- Winner:
+  - Cocoon – Geometric Interactive / Annapurna Interactive‡
+- Nominees:
+  - Dredge – Black Salt Games / Team17
+  - Pizza Tower – Tour De Pizza
+  - Venba – Visai Games
+  - Viewfinder – Sad Owl Studios / Thunderful Publishing
+
 Best Ongoing Game:
-Best Community Support
-Best Mobile Game	
-Best VR / AR Game
-Best Action Game	
-Best Action / Adventure Game
-Best Role Playing Game	
-Best Fighting Game
-Best Family Game	
-Best Sim / Strategy Game
-Best Sports / Racing Game	
-Best Multiplayer Game[b]
-Innovation in Accessibility	
-Best Adaptation[c]
-Most Anticipated Game	
-Players' Voice[d]
+- Winner:
+  - Cyberpunk 2077 – CD Projekt Red / CD Projekt‡
+- Nominees:
+  - Apex Legends – Respawn Entertainment / Electronic Arts
+  - Final Fantasy XIV – Square Enix
+  - Fortnite – Epic Games
+  - Genshin Impact – miHoYo / HoYoverse
+  
+Best Community Support:
+- Winner:
+  - Cyberpunk 2077 – CD Projekt Red / CD Projekt‡
+- Nominees:
+  - Cyberpunk 2077 – CD Projekt Red / CD Projekt
+  - Destiny 2 – Bungie
+  - Final Fantasy XIV – Square Enix
+  - No Man's Sky – Hello Games
+
+Best Mobile Game:
+- Winner:
+  - Honkai: Star Rail – miHoYo / HoYoverse
+- Nominees:
+  - Final Fantasy VII: Ever Crisis – Applibot, Square Enix Creative Business Unit I / Square Enix
+  - Hello Kitty Island Adventure – Sunblink
+  - Monster Hunter Now – Niantic, Capcom
+  - Terra Nil – Free Lives / Devolver Digital
+
+Best VR / AR Game:
+- Winner:
+  - Resident Evil Village – Capcom‡
+- Nominees:
+  - Gran Turismo 7 – Polyphony Digital / Sony Interactive Entertainment
+  - Humanity – tha LTD. / Enhance Games
+  - Horizon Call of the Mountain – Guerrilla Games, Firesprite / Sony Interactive Entertainment
+  - Synapse – nDreams
+
+Best Action Game:
+- Winner:
+  - Armored Core VI: Fires of Rubicon – FromSoftware / Bandai Namco Entertainment‡
+- Nominees: 
+  - Dead Island 2 – Dambuster Studios / Deep Silver
+  - Ghostrunner 2 – One More Level / 505 Games
+  - Hi-Fi Rush – Tango Gameworks / Bethesda Softworks
+  - Remnant 2 – Gunfire Games / Gearbox Publishing
+
+Best Action / Adventure Game:
+- Winner:
+  - The Legend of Zelda: Tears of the Kingdom – Nintendo EPD / Nintendo‡
+- Nominees:
+  - Alan Wake 2 – Remedy Entertainment / Epic Games Publishing
+  - Marvel's Spider-Man 2 – Insomniac Games / Sony Interactive Entertainment
+  - Resident Evil 4 – Capcom
+  - Star Wars Jedi: Survivor – Respawn Entertainment / Electronic Arts
+
+Best Role Playing Game:
+- Winner:
+  - Baldur's Gate 3 – Larian Studios‡
+- Nominees:
+  - Final Fantasy XVI – Square Enix
+  - Lies of P – Round8 Studio / Neowiz
+  - Sea of Stars – Sabotage Studio
+  - Starfield – Bethesda Game Studios / Bethesda Softworks
+
+Best Fighting Game:
+- Winner:
+  - Street Fighter 6 – Capcom‡
+- Nominees:
+  - God of Rock – Modus Games
+  - Mortal Kombat 1 – NetherRealm Studios / Warner Bros. Games
+  - Nickelodeon All-Star Brawl 2 – Fair Play Labs / GameMill Entertainment
+  - Pocket Bravery – Statera Studio / PQube
+
+Best Family Game:	
+- Winner:
+  - Super Mario Bros. Wonder – Nintendo EPD / Nintendo‡
+- Nominees:
+  - Disney Illusion Island – Dlala Studios / Disney Electronic Content
+  - Party Animals – Recreate Games / Source Technology
+  - Pikmin 4 – Nintendo EPD / Nintendo
+  - Sonic Superstars – Arzest, Sonic Team / Sega
+
+Best Sim / Strategy Game:
+- Winner:
+  - Pikmin 4 – Nintendo EPD / Nintendo‡
+- Nominees:  
+  - Advance Wars 1+2: Re-Boot Camp – WayForward / Nintendo
+  - Cities: Skylines II – Colossal Order / Paradox Interactive
+  - Company of Heroes 3 – Relic Entertainment / Sega
+  - Fire Emblem Engage – Intelligent Systems / Nintendo
+
+Best Sports / Racing Game:
+- Winner:
+  - Forza Motorsport – Turn 10 Studios / Xbox Game Studios‡
+- Nominees:
+  - EA Sports FC 24 – EA Vancouver, EA Romania / EA Sports
+  - F1 23 – Codemasters / EA Sports
+  - Hot Wheels Unleashed 2: Turbocharged – Milestone
+  - The Crew Motorfest – Ubisoft Ivory Tower / Ubisoft
+
+Best Multiplayer Game:
+- Winner:
+  - Baldur's Gate 3 – Larian Studios
+- Nominees:
+  - Diablo IV – Blizzard Team 3, Blizzard Albany / Blizzard Entertainment
+  - Party Animals – Recreate Games / Source Technology
+  - Street Fighter 6 – Capcom
+  - Super Mario Bros. Wonder – Nintendo EPD / Nintendo
+
+Innovation in Accessibility:	
+- Winner:
+  - Forza Motorsport – Turn 10 Studios / Xbox Game Studios‡
+- Nominees:
+  - Diablo IV – Blizzard Team 3, Blizzard Albany / Blizzard Entertainment
+  - Hi-Fi Rush – Tango Gameworks / Bethesda Softworks
+  - Marvel's Spider-Man 2 – Insomniac Games / Sony Interactive Entertainment
+  - Mortal Kombat 1 – NetherRealm Studios / Warner Bros. Games
+  - Street Fighter 6 – Capcom
+
+
+Best Adaptaion: 
+- Winner:
+  - The Last of Us (television series) – PlayStation Productions / HBO; based on The Last of Us by Sony Interactive Entertainment‡
+- Nominees:
+  - Castlevania: Nocturne (animated series) – Powerhouse Animation / Netflix; based on Castlevania by Konami
+  - Gran Turismo (film) – PlayStation Productions / Sony Pictures Releasing; based on Gran Turismo by Sony Interactive Entertainment
+  - The Super Mario Bros. Movie (animated film) – Illumination, Nintendo / Universal Pictures; based on Mario by Nintendo
+  - Twisted Metal (television series) – PlayStation Productions / Peacock; based on Twisted Metal by Sony Interactive Entertainment
+
+Most Anticipated Game:	
+- Winner:
+  - Final Fantasy VII Rebirth – Square Enix Creative Business Unit I / Square Enix‡
+- Nominees:
+  - Hades II – Supergiant Games
+  - Like a Dragon: Infinite Wealth – Ryu Ga Gotoku Studio / Sega
+  - Star Wars Outlaws – Massive Entertainment / Ubisoft
+  - Tekken 8 – Bandai Namco Studios, Arika / Bandai Namco Entertainment
+
+Players' Voice:
+- Winner:
+  - Baldur's Gate 3 – Larian Studios‡
+- Nominees:
+  - Cyberpunk 2077: Phantom Liberty – CD Projekt Red / CD Projekt
+  - Genshin Impact – miHoYo / HoYoverse
+  - The Legend of Zelda: Tears of the Kingdom – Nintendo EPD / Nintendo
+  - Marvel's Spider-Man 2 – Insomniac Games / Sony Interactive Entertainment
+ 
+#### Esports and creators
+
+Best Esports Game:
+- Winner:
+  - Valorant – Riot Games‡
+- Nominees:
+  - Counter-Strike 2 – Valve
+  - Dota 2 – Valve
+  - League of Legends – Riot Games
+  - PUBG Mobile – Lightspeed & Quantum Studio / Level Infinite
+
+Best Esports Athlete:
+- Winner:
+  - Lee "Faker" Sang-hyeok (T1, League of Legends)‡
+- Nominees:
+  - Phillip "ImperialHal" Dosen (TSM, Apex Legends)
+  - Mathieu "ZywOo" Herbaut (Team Vitality, Counter-Strike: Global Offensive)
+  - Park "Ruler" Jae-hyuk (JD Gaming, League of Legends)
+  - Max "Demon1" Mazanov (Evil Geniuses, Valorant)
+  - Paco "HyDra" Rusiewiez (New York Subliners, Call of Duty)
+
+Best Esports Team:
+- Winner:
+  - JD Gaming (League of Legends)‡
+- Nominees:
+  - Evil Geniuses (Valorant)
+  - Fnatic (Valorant)
+  - Gaimin Gladiators (Dota 2)
+  - Team Vitality (Counter-Strike 2)
+
+Best Esports Coach:
+- Winner:
+  - Christine "potter" Chi (Evil Geniuses, Valorant)‡
+- Nominees:
+  - Jordan "Gunba" Graham (Florida Mayhem, Overwatch 2)
+  - Rémy "XTQZZZ" Quoniam (Team Vitality, Counter-Strike: Global Offensive)
+  - Danny "zonic" Sørensen (Team Vitality, Counter-Strike: Global Offensive)
+  - Yoon "Homme" Sung-young (JD Gaming, League of Legends)
+
+Best Esports Event:	
+- Winner:
+  - 2023 League of Legends World Championship‡
+- Nominees:
+  - BLAST.tv Paris Major 2023
+  - Evo 2023
+  - The International 2023
+  - 2023 Valorant Champions
+  
+Content Creator of the Year:
+- Winner:
+  - Ironmouse‡
+- Nominees:
+  - People Make Games
+  - Quackity
+  - Spreen
+  - SypherPK
+
+### Multiple nominations and awards
+#### Multiple nominations
+Baldur\'s Gate 3 led the show with nine nominations, followed by Alan
+Wake 2 and Marvel\'s Spider-Man 2 with eight each.\[25\] Nintendo led
+the publishers with 15 nominations,\[e\] followed by Sony Interactive
+Entertainment with 10.\[26\] In addition to video game publishers,
+PlayStation Productions received three nominations for its film and
+television products in Best Adaptation, and Sony Pictures Television
+received two.\[12\]
+
+Games that received multiple nominations:
+- Baldur's Gate 3: 9 nominations
+- Alan Wake 2: 8 nominations
+- Marvel's Spider-Man 2: 8 nominations
+- The Legend of Zelda: Tears of the Kingdom: 6 nominations
+- Cyberpunk 2077: 5 nominations
+- Hi-Fi Rush: 5 nominations
+- Super Mario Bros. Wonder: 5 nominations
+- Final Fantasy XVI: 4 nominations
+- Resident Evil 4: 3 nominations
+- Street Fighter 6: 3 nominations
+- Cocoon: 2 nominations
+- Diablo IV: 2 nominations
+- Dredge: 2 nominations
+- Final Fantasy XIV: 2 nominations
+- Forza Motorsport: 2 nominations
+- Genshin Impact: 2 nominations
+- Lies of P: 2 nominations
+- Mortal Kombat 1: 2 nominations
+- Party Animals: 2 nominations
+- Pikmin 4: 2 nominations
+- Sea of Stars: 2 nominations
+- Star Wars Jedi: Survivor: 2 nominations
+- Terra Nil: 2 nominations
+- Venba: 2 nominations
+- Viewfinder: 2 nominations
+
+Nominations by publisher:
+- Nintendo: 15 nominations
+- Sony Interactive Entertainment: 10 nominations
+- Epic Games: 9 nominations
+- Larian Studios: 9 nominations
+- Capcom: 8 nominations
+- Square Enix: 8 nominations
+- Bethesda Softworks: 6 nominations
+- CD Projekt: 5 nominations
+- Electronic Arts: 4 nominations
+- Riot Games: 4 nominations
+- Sega: 4 nominations
+- HoYoverse: 3 nominations
+- Annapurna Interactive: 2 nominations
+- Bandai Namco Entertainment: 2 nominations
+- Blizzard Entertainment: 2 nominations
+- Devolver Digital: 2 nominations
+- EA Sports: 2 nominations
+- Neowiz: 2 nominations
+- Sabotage Studio: 2 nominations
+- Source Technology: 2 nominations
+- Team17: 2 nominations
+- Thunderful Publishing: 2 nominations
+- Ubisoft: 2 nominations
+- Visai Games: 2 nominations
+- Warner Bros. Games: 2 nominations
+- Xbox Game Studios: 2 nominations
+
+#### Multiple awards
+Baldur's Gate 3 (Larian Studios) led the show with six wins, followed by Alan Wake 2 (Epic Games) with three, and Forza Motorsport (Xbox Game Studios) with two. Nintendo also won three awards, while Capcom and Square Enix won two.
+
+Games that received multiple wins"
+- Baldur's Gate 3: 6 awards
+- Alan Wake 2: 3 awards
+- Forza motersport: 2 awards
+
+Win by publisher:
+- Larian Studios: 6 awards
+- Epic Games: 3 awards
+- Nintendo: 3 awards
+- Capcom: 2 awards
+- Square Enix: 2 awards
+- Xbox Game Studios: 2 awards
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
