@@ -555,21 +555,21 @@ The following individuals, listed in order of appearance, presented awards or in
 ### Performers
 The following individuals or groups performed musical numbers.[28][34][35] Pedro Eustache, who became known as "Flute Guy" during the 2022 ceremony, returned to perform as part of the Game Awards Orchestra.
 
-Name of of artist: Heilung
-Name of song: "Seidh"
-Game: Senua's Saga: Hellblade II
+- Name of of artist: Heilung
+- Name of song: "Seidh"
+- Game: Senua's Saga: Hellblade II
 
-Name of of artist: The Game Awards Orchestra and Loren Allred
-Name of song: "No Promises to Keep"
-Game: Final Fantasy VII Rebirth
+- Name of of artist: The Game Awards Orchestra and Loren Allred
+- Name of song: "No Promises to Keep"
+- Game: Final Fantasy VII Rebirth
 
-Name of of artist: David Harewood, Sam Lake, Old Gods of Asgard, Matthew Porretta and Ilkka Villi
-Name of song: "Herald of Darkness"
-Game: Alan Wake 2
+- Name of of artist: David Harewood, Sam Lake, Old Gods of Asgard, Matthew Porretta and Ilkka Villi
+- Name of song: "Herald of Darkness"
+- Game: Alan Wake 2
 
-Name of of artist: The Game Awards Orchestra
-Name of song: Game of the Year medley
-Game: Alan Wake 2, Baldur's Gate 3, The Legend of Zelda: Tears of the Kingdom, Marvel's Spider-Man 2, Resident Evil 4, and Super Mario Bros. Wonder
+- Name of of artist: The Game Awards Orchestra
+- Name of song: Game of the Year medley
+- Game: Alan Wake 2, Baldur's Gate 3, The Legend of Zelda: Tears of the Kingdom, Marvel's Spider-Man 2, Resident Evil 4, and Super Mario Bros. Wonder
 
 ## Reception
 ### Nominees
