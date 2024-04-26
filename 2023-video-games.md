@@ -47,13 +47,29 @@ companies in 2023.\[1\]\[2\]\[3\]
 - 24th Game Developers Choice Awards March 20, 2024[7] -
 - 20th British Academy Games Awards April 11, 2024[8] -
 
-#### Audio:Music
+#### Audio: Music
 - 27th Japan Game Awards September 20, 2023[5] - 
 - 41st Golden Joystick Awards November 10, 2023 - 
 - The Game Awards 2023 December 7, 2023 - 
 - 27th Annual D.I.C.E. Awards February 15, 2024[6] - 
 - 24th Game Developers Choice Awards March 20, 2024[7] -
 - 20th British Academy Games Awards April 11, 2024[8] -
+
+#### Audio: Sound design
+- 27th Japan Game Awards September 20, 2023[5] - 
+- 41st Golden Joystick Awards November 10, 2023 - 
+- The Game Awards 2023 December 7, 2023 - 
+- 27th Annual D.I.C.E. Awards February 15, 2024[6] - 
+- 24th Game Developers Choice Awards March 20, 2024[7] -
+- 20th British Academy Games Awards April 11, 2024[8] -
+
+#### Character or Performance: Leading Role
+#### Character or Performance: Supporting role 
+#### Game Direction or Design: Game Design
+#### Game Direction or Design: Game Direction
+#### Narative 
+#### Multiplayer / Online
+#### Special Award 
 
 
 
