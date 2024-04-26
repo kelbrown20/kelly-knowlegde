@@ -523,13 +523,201 @@ Win by publisher:
 - Xbox Game Studios: 2 awards
 
 
+## Presenters and performers
+### Presenters
+The following individuals, listed in order of appearance, presented awards or introduced trailers. All other awards were presented by Keighley or Goodman.[28][29][30]
+- Christopher Judge	presented the award for Best Performance
+- Matthew McConaughey	presented the announcement trailer for Exodus
+- Melina Juergens	Introduced performer Heilung
+- Ed Boon	Presented the award for Best Narrative
+- Ikumi Nakamura	Presented the announcement trailer for Kemuri
+- Gonzo[f]	Introduced the award for Best Debut Indie Game
+- Hideo Kojima and Jordan Peele introduced the announcement trailer for OD
+- Zedd presented the award for Best Audio Design
+- Rebecca Ford and Megan Everett introduced the gameplay trailer for Warframe: Whispers in the Walls
+- Caroline Marchal presented the award for Games for Impact
+- Abubakar Salim introduced the announcement trailer for Tales of Kenzera: Zau
+- Dinga Bakaba and Bill Roseman introduced the announcement trailer for Marvel's Blade[32]
+- Anthony Mackie	presented the award for Best Ongoing Game
+- Steve C. Martin	introduced the announcement trailer for Last Sentinel
+- David Harewood introduced performer Old Gods of Asgard
+- Ulf Andersson	introduced free weekend trailer for GTFO and announcement trailer for Den of Wolves
+- Matthew Mercer introduced the launch trailer for Asgard's Wrath 2
+- Walton Goggins, Aaron Moten, and Ella Purnell presented the award for Best Adaptation
+- Sean Murray	Introduced the announcement trailer for Light No Fire
+- Simu Liu introduced the story and gameplay trailer for Stormgate
+- Presented the award for Best Action/Adventure Game
+- Vince Zampella Presented the award for Best Game Direction
+- Gustav Tilleby Introduced the release trailer for The Finals
+- Ryōzō Tsujimoto	Introduced the announcement trailer for Monster Hunter Wilds[33]
+- Timothée Chalamet	Presented the award for Game of the Year
 
+### Performers
+The following individuals or groups performed musical numbers.[28][34][35] Pedro Eustache, who became known as "Flute Guy" during the 2022 ceremony, returned to perform as part of the Game Awards Orchestra.
 
+Name of of artist: Heilung
+Name of song: "Seidh"
+Game: Senua's Saga: Hellblade II
 
+Name of of artist: The Game Awards Orchestra and Loren Allred
+Name of song: "No Promises to Keep"
+Game: Final Fantasy VII Rebirth
 
+Name of of artist: David Harewood, Sam Lake, Old Gods of Asgard, Matthew Porretta and Ilkka Villi
+Name of song: "Herald of Darkness"
+Game: Alan Wake 2
 
+Name of of artist: The Game Awards Orchestra
+Name of song: Game of the Year medley
+Game: Alan Wake 2, Baldur's Gate 3, The Legend of Zelda: Tears of the Kingdom, Marvel's Spider-Man 2, Resident Evil 4, and Super Mario Bros. Wonder
 
+## Reception
+### Nominees
 
+Some journalists were surprised by Cyberpunk 2077\'s four
+nominations---twice as many as its original nominations in
+2021---particularly due to the game\'s troubled launch.\[38\]\[39\] Many
+considered Destiny 2\'s Best Community Support nomination poorly timed,
+coming weeks after layoffs at developer Bungie, including much of its
+community team.\[40\]\[41\]\[42\] Journalists felt several performances
+were overlooked and suggested Best Performance be split to consider
+leading and supporting performances to widen its
+scope.\[43\]\[44\]\[45\] TheGamer\'s Stacey Henley found Pizza Tower\'s
+nomination for Best Debut Indie Game but not Best Independent Game
+incongruous.\[46\]
+
+The absence of nominations for Chained Echoes was highlighted as a flaw
+in the eligibility period for games released the preceding
+December;\[47\]\[48\] some writers opined the show had a recency bias,
+with half the Game of the Year nominees released in October.\[43\]\[49\]
+Many reporters and players highlighted the sole nomination for
+Starfield, a blockbuster game from a reputable
+developer,\[25\]\[38\]\[50\] though some found it appropriate due to the
+game\'s lesser quality compared to its competition.\[49\]\[51\] The lack
+of nominations for Hogwarts Legacy was similarly highlighted, with some
+citing the game\'s divisiveness as a possible reason,\[38\]\[52\] though
+others felt it was due to its relative quality.\[48\]\[53\]\[54\] Some
+lamented the omission of Octopath Traveler 2,\[38\]\[55\]\[56\] and
+others felt Final Fantasy XVI was snubbed a Game of the Year
+nomination.\[48\]\[57\]
+
+Several journalists and viewers expressed confusion at Dave the Diver\'s
+Best Independent Game nomination as its developer, Mintrocket, is a
+subsidiary of the larger company Nexon, which previously claimed the
+game was \"not necessarily\" an indie;\[43\]\[46\] TheGamer\'s Henley
+wrote that Baldur\'s Gate 3 was \"technically an entirely independent
+game\" but was likely not considered eligible due to developer Larian
+Studios\'s employee count and use of an existing intellectual
+property.\[46\] In response, Keighley said \"independent can mean
+different things to different people\" and opted to allow the jury to
+decide the final selections.\[58\] TheGamer\'s Jade King called Games
+for Impact \"a locker to stuff all the diverse games into\", with four
+of its six nominees not receiving any other nominations, and felt it was
+typically limited to independent games despite others fitting the
+criteria.\[59\]
+
+### Ceremony
+Before the ceremony, more than 3,000 game industry members, including 79
+previous Future Class recipients\[60\]---more than half of the 150
+members to date\[61\]---signed an open letter calling for a statement to
+be read during the show addressing the ongoing Gaza humanitarian crisis,
+supporting the rights of Palestinians and calling for a ceasefire, and
+asking the industry to address the dehumanization of people from South
+West Asia and North Africa and their portrayal as villains or terrorists
+in games. The letter\'s author, 2021 Future Class recipient Younès
+Rabii, said it was motivated by Meg Jayanth\'s withdrawal as a presenter
+at the Golden Joystick Awards in October after being barred from making
+a statement about Palestinians.\[62\]\[63\]\[64\] The Mary Sue\'s Ana
+Valens bemoaned the show\'s lack of response\[65\] and Paste\'s Garrett
+Martin criticized it as \"cowardly\".\[60\] Rock Paper Shotgun\'s Alice
+Bell felt the show only would have voiced support if it \"was a
+profitable stance rather than a moral one\".\[66\] After the ceremony,
+developers of nominees Goodbye Volcano High and Venba said they had
+planned to acknowledge the crisis in their acceptance speeches.\[1\]
+Keighley spoke with Future Class members after the show; some members
+felt he was deflective and unprepared, while others found the meeting
+productive and hopeful.\[67\]\[68\]
+
+The ceremony was criticized for prioritizing announcements and celebrity
+guests over nominees and winners.\[69\]\[72\]\[73\] Some journalists
+felt this was represented by actor Timothée Chalamet presenting Game of
+the Year instead of a game developer.\[61\]\[69\] Obsidian Entertainment
+director Josh Sawyer called the show \"an embarrassing indictment of a
+segment of the industry desperate for validation via star power with
+little respect for the devs it\'s supposedly honoring\".\[1\]
+Eurogamer\'s Chris Tapsell felt future ceremonies should mirror the
+goals of its own industry rather than seek validation and relevance from
+others.\[61\] Video Games Chronicle\'s Andy Robinson empathized with the
+production team\'s challenges and considered the show among the best to
+date but felt it suffered from runtime and curation problems.\[74\]
+VentureBeat\'s Dean Takahashi felt the show \"lived up to the reputation
+of being \... the Oscars of gaming\".\[75\] Some commentators considered
+highlights included Old Gods of Asgard\'s performance\[70\]\[76\]\[77\]
+and Abubakar Salim announcing Tales of Kenzera: Zau in memory of his
+late father.\[73\]\[70\]\[78\]
+
+Journalists found it disrespectful that celebrity guests were given
+several minutes to speak---including more than six minutes for Hideo
+Kojima and Jordan Peele\[79\]---while winners were allocated thirty
+seconds before being prompted to \"wrap it up\" and cut off by
+music,\[1\]\[66\]\[80\] and others were relegated to the preshow or
+announced in quick succession without acceptance
+speeches.\[73\]\[72\]\[70\] The Escapist\'s Liam Nolan calculated that
+winners\' speeches cumulatively ran for less than 11 minutes, compared
+to the Academy Awards\'s 30-minute average.\[81\] Commentators cited
+Best Performance winner Neil Newbon being cut off while talking about
+players\' heartfelt responses to his work, and Game of the Year acceptee
+Swen Vincke while paying tribute to his deceased
+colleague,\[1\]\[70\]\[71\] and considered it disrespectful considering
+several acceptees speak English as a second language.\[69\]\[82\]\[83\]
+Keighley said he asked his team to relax the rule during the show and
+acknowledged it would be addressed in future.\[1\] GameSpot and IGN
+published speeches from winners who were unable to accept at the
+show.\[84\]\[85\]
+
+Critics bemoaned the show\'s lack of acknowledgement of the video game
+industry\'s mass layoffs;\[1\]\[88\]\[82\] VentureBeat\'s Rachel Kaser
+found it particularly disappointing considering the show\'s focus on
+film and television industry professionals,\[89\] and The Verge\'s Ash
+Parrish wrote that \"Keighley let video game developers down\".\[88\]
+Dot Esports\'s Issy van der Velde called it \"disappointing but not
+entirely unexpected\" based on the show\'s history of avoiding
+acknowledgment.\[90\] Game Developer\'s Chris Kerr criticized
+Keighley\'s opening speech for calling for unity but failing to address
+layoffs, and felt the show should spend \"less time chasing a hollow
+sense of legitimacy by curating a showcase that has the cultural
+awareness and humanity of a shameless Super Bowl ad\".\[91\] The
+ceremony was picketed by pro-worker protestors advocating for
+unionization, including members of the Game Workers of Southern
+California and SAG-AFTRA;\[70\]\[86\]\[87\] one picket sign read \"best
+year for games, worst year for game workers\".\[91\]
+
+Some Call of Duty developers criticized presenter Christopher Judge\'s
+joke that his 2022 acceptance speech was lengthier than Call of Duty:
+Modern Warfare III\'s (2023) single-player story
+campaign.\[92\]\[93\]\[94\] Current and former developers countered by
+citing Call of Duty\'s higher commercial success, though some deleted
+their responses and said they respected God of War, in which Judge
+portrays Kratos.\[95\]\[96\] Barry Sloane, who portrays Modern
+Warfare\'s Captain Price, similarly criticized Judge\'s joke but later
+wrote \"all\'s fair in games and war\" and complimented his
+performances.\[97\]\[98\] Sledgehammer Games\'s Darcy Sandall found
+Judge\'s joke unexpected \"from a peer, at an event that \[sic\]
+supposed to be celebrating this year\'s achievements in gaming\",
+particularly in light of reports regarding its development involving
+crunch.\[92\]
+
+### Viewership
+An estimated 118 million viewers watched the ceremony, the most in the
+show\'s history and a 15% increase from the previous year. More than
+17,000 content creators co-streamed the event, including over 13,680 on
+Twitch (a 24% increase) and 4,000 on YouTube. On Twitch, the show peaked
+at 1.94 million concurrent viewers and saw a 10% increase in total watch
+time.\[6\] The extension \"Twitch Predicts The Game Awards\" reached
+almost four million views, with 330,000 concurrent viewers.\[99\] On
+YouTube, the ceremony set a show record with a peak of 1.7 million
+concurrent viewers, a 35% increase, with over 900,000 on the official
+channel, a 53% increase.\[6\]
 
 
 
