@@ -24,21 +24,38 @@ seed_examples:
         answer: The supporting cast includes America Ferrera, Michael Cera, Kate McKinnon, Issa Rae, Rhea Perlman, and Will Ferrell.
           
   - context: |
-    
-    
+      Main variations of Barbie played by:
       
+      Issa Rae as President Barbie, the ruler of Barbieland [12][13]
+      
+      Kate McKinnon as Weird Barbie, the outcast deformed Barbie who lives in the Weird House and has knowledge of the lands outside of Barbieland [14][13]
+      
+      Alexandra Shipp as Writer Barbie [15][13]
+      
+      Emma Mackey as Physicist Barbie [16][13]
+      
+      Hari Nef as Dr. Barbie [13]
+      
+      Sharon Rooney as Lawyer Barbie [12]
+      
+      Ana Cruz Kayne as Judge Barbie [12][13]
+      
+      Ritu Arya as Journalist Barbie [12][13]
+      
+      Dua Lipa as Mermaid Barbie [17][13]
+    
     questions_and_answers:
-      - question: |
+      - question: Who played President Barbie in the 2023 Barbie movie 
           
-        answer: |
+        answer: Issa Rae played President Barbie, the ruler of Barbieland, in the Barbie movie.
           
-      - question: |
+      - question: Who played mermaid Barbie in the Barbie movie.
           
-        answer: |
+        answer: Dua Lipa played Mermaid Barbie in the 2023 Barbie movie.
           
-      - question: |
+      - question: Who played Werid Barbie in the 2023 Barbie movie
           
-        answer: |
+        answer: Weird Barbie, the outcast deformed Barbie who lives in the Weird House and has knowledge of the lands outside of Barbieland, was played by Kate McKinnon
           
   - context: |
       
