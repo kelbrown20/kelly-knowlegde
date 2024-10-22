@@ -25,6 +25,7 @@ seed_examples:
           
   - context: |
     
+    
       
     questions_and_answers:
       - question: |
@@ -55,19 +56,22 @@ seed_examples:
         answer: |
           
   - context: |
-      
+     Barbie was released on the same day as Oppenheimer, a biographical film about J. Robert Oppenheimer written and directed by Christopher Nolan based on the book American Prometheus , and distributed by Universal Pictures. Due to the tonal and genre contrast between the two films, many social media users created memes and ironic posts about how the two films appealed to different audiences, [184]
+     and how they should be viewed as a double feature .[185][186]
+     Hence, the trend was dubbed " Barbenheimer ." [187] In an interview with La Vanguardia , Oppenheimer star Cillian Murphy endorsed the phenomenon, saying, "My advice would be for people to go see both, on the same day. If they are good films, then that's cinema's gain." [188]
+     The Barbenheimer phenomenon was widely credited with boosting interest in the film, with a total of 79% of tickets sold over the weekend (52% for Barbie ) being for the two films, a total of 18.5 million people. [4]
     questions_and_answers:
-      - question: |
+      - question: What movie was released on the same day as the 2023 Barbie movie
           
-        answer: |
+        answer: The biographical film Oppenheimer was released on the same day as the Barbie movie
           
-      - question: |
+      - question: What was the trend called where audiences viewed Barbie and Oppenheimer on the same day. 
           
-        answer: |
+        answer: The trend was dubbed "Barbenheimer", where audiences would see the Barbie and Oppenheimer movies on the same day or weekend
           
-      - question: |
+      - question: What was the result of the Barbenheimer trend. 
           
-        answer: |
+        answer: The Barbenheimer phenomenon was widely credited with boosting interest in the film, with a total of 79% of tickets sold over the weekend (52% for Barbie ) being for the two films, a total of 18.5 million people.
           
   - context: |
       Sarah Greenwood and Katie Spencer were the set designer and decorator, respectively, for Barbie . \
