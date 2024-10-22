@@ -80,7 +80,6 @@ seed_examples:
       - question: Who wrote the song "What was I made for?" on Barbie the Album
           
         answer: The song "What was I made for?" on Barbie the Album was written and performed by Billie Eilish
-          
   - context: |
      Barbie was released on the same day as Oppenheimer, a biographical film about J. Robert Oppenheimer written and directed by Christopher Nolan based on the book American Prometheus , and distributed by Universal Pictures. Due to the tonal and genre contrast between the two films, many social media users created memes and ironic posts about how the two films appealed to different audiences, [184]
      and how they should be viewed as a double feature .[185][186]
@@ -97,8 +96,7 @@ seed_examples:
           
       - question: What was the result of the Barbenheimer trend. 
           
-        answer: The Barbenheimer phenomenon was widely credited with boosting interest in the film, with a total of 79% of tickets sold over the weekend (52% for Barbie ) being for the two films, a total of 18.5 million people.
-          
+        answer: The Barbenheimer phenomenon was widely credited with boosting interest in the film, with a total of 79% of tickets sold over the weekend (52% for Barbie ) being for the two films, a total of 18.5 million people. 
   - context: |
       Sarah Greenwood and Katie Spencer were the set designer and decorator, respectively, for Barbie . \
       For the Barbie Dreamhouse, they drew inspiration from mid-century modernist architecture found in Palm Springs, 
@@ -123,12 +121,10 @@ seed_examples:
           
       - question: What type of a effects were used in the set of the 2023 Barbie movie 
           
-        answer: Director Greta Gerwig wanted to use more practical effects in the set instead of computer-generated imagery (CGI)
-          
+        answer: Director Greta Gerwig wanted to use more practical effects in the set instead of computer-generated imagery (CGI)          
 document_outline: The productions details of the 2023 barbie movie.
-  
 document: 
-  repo: 
-  commit: 
+  repo: https://github.com/kelbrown20/kelly-knowlegde
+  commit: 58c0ee372d82e68fb568394d92dcc17f7c54c011
   patterns:
-    - file_name.md
+    - barbie_movie_wiki.md
