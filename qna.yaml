@@ -1,0 +1,104 @@
+version: 3
+created_by: kelbrown 
+domain: movies 
+seed_examples:
+  - context: |
+      Barbie [a] is a 2023 fantasy comedy film directed by Greta Gerwig from a screenplay she wrote with Noah Baumbach. 
+      Based on the eponymous fashion dolls by Mattel, it is the first live-action Barbie film after numerous animated films and specials. 
+      Starring Margot Robbie as the title character and Ryan Gosling as Ken, the film follows them on a journey of self-discovery through Barbieland and the real world following an existential crisis. It is also a commentary regarding patriarchy and the effects of feminism. 
+      The supporting cast includes America Ferrera, Michael Cera, Kate McKinnon, Issa Rae, Rhea Perlman, and Will Ferrell.
+      A live-action Barbie film was announced in September 2009 by Universal Pictures with Laurence Mark producing. 
+      Development began in April 2014, when Sony Pictures acquired the film rights. Following multiple writer and director changes and the casting of Amy Schumer and later Anne Hathaway as Barbie, the rights were transferred to Warner Bros. Pictures in October 2018. Robbie was cast in 2019, after Gal Gadot turned down the role due to scheduling conflicts, and Gerwig was announced as director and co-writer with Baumbach in 2020. The rest of the cast was announced in early 2022. Principal photography occurred primarily at Warner Bros. 
+      Studios, Leavesden, England, and at the Venice Beach Skatepark in Los Angeles from March to July 2022.
+    questions_and_answers:
+      - question: Who wrote and directed the Barbie movie from 2023 
+          
+        answer: The 2023 Barbie movie was written and directed by Greta Gerwig. Greta wrote the screenplay with Noah Baumbach
+          
+      - question: Who played Barbie and Ken in the live-action 2023 Barbie movie
+          
+        answer: Margot Robbie played Barbie and Ryan Gosling played Ken in the 2023 Barbie movie
+          
+      - question: Who were the supporting cast members in the 2023 Barbie movie
+          
+        answer: The supporting cast includes America Ferrera, Michael Cera, Kate McKinnon, Issa Rae, Rhea Perlman, and Will Ferrell.
+          
+  - context: |
+    
+      
+    questions_and_answers:
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+  - context: |
+      Sarah Greenwood and Katie Spencer were the set designer and decorator, respectively, for Barbie . \
+      For the Barbie Dreamhouse, they drew inspiration from mid-century modernist architecture found in Palm Springs, 
+      including the 1946 Kaufmann Desert House by Richard Neutra, and the photography of Slim Aarons. Gerwig wanted to capture 
+      "what was so ridiculously fun about the Dreamhouses", alluding to its previous models, and referenced Pee-wee's Big Adventure (1985), 
+      the paintings of Wayne Thiebaud, and the apartment of Gene Kelly's character in the Technicolor musical An American in Paris (1951). 
+      "Everything needed to be tactile, because toys are, above all, things you touch", Gerwig said of the use of practical effects instead of computer-generated imagery (CGI) to capture the sky and the San Jacinto Mountains. The set design is also noted for its extensive use of a specific shade of pink, Pantone 219. Rosco, 
+      the film's paint supplier, faced international shortages due to COVID-19-related supply-chain issues, as well as freezing temperatures that damaged stock; the film's sets required the company's entire remaining stock of pink. [90][91][92] Because Gerwig also wanted to use practical builds, 
+      and had to film sequences in miniature models, then composite the footage onto the actual image. She began discussing the production design with cinematographer
+      Rodrigo Prieto, Greenwood, and costume designer Jacqueline Durran a year in advance of filming. [93] She also called director Peter Weir for inspiration on Barbie Land, with the idea of creating it as an "interior soundstage world". [66]
+      
+    questions_and_answers: 
+      - question:  Who were the set designers for the live-action 2023 Barbie movie
+          
+        answer: Sarah Greenwood and Katie Spencer were the set designer and decorator for the 2023 Barbie movie. 
+          
+      - question: What was the inspiration for the Barbie deamhouse set in the 2023 Barbie movie 
+          
+        answer: |
+          For the Barbie Dreamhouse in the 2023 Barbie movie, the set designers drew inspiration from mid-century modernist architecture found in Palm Springs, 
+          including the 1946 Kaufmann Desert House by Richard Neutra, and the photography of Slim Aaron.
+          
+      - question: What type of a effects were used in the set of the 2023 Barbie movie 
+          
+        answer: Director Greta Gerwig wanted to use more practical effects in the set instead of computer-generated imagery (CGI)
+          
+document_outline: The productions details of the 2023 barbie movie.
+  
+document: 
+  repo: 
+  commit: 
+  patterns:
+    - file_name.md
